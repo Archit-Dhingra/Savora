@@ -1,4 +1,4 @@
-# 🚚 Food Ordering Web App (MERN Stack)
+# 🚚 Savora – Food Ordering Web App (MERN Stack)
 
 ## ✨ Table of Contents
 - [Introduction](#introduction)
@@ -12,9 +12,11 @@
 - [Contact](#contact)
 
 ## 📊 Introduction
-This is a full-stack food ordering web application built using the MERN stack (MongoDB, Express, React, Node.js). The application consists of a customer-facing app for ordering food and an admin app for managing orders, menu items, and more.
+
+Savora is a full-stack food ordering web application built using the MERN stack (MongoDB, Express, React, Node.js). It provides a seamless experience for users to browse food items, manage cart, place orders, and allows admins to manage menu items and orders efficiently.
 
 ## 🚀 Features
+
 - User authentication and authorization
 - Browse food items
 - Add items to the cart and place orders
@@ -23,6 +25,7 @@ This is a full-stack food ordering web application built using the MERN stack (M
 - Admin panel to manage menu items, orders
 
 ## 🛠️ Technologies Used
+
 - **Frontend:** React.js, React Context API, React Router
 - **Backend:** Node.js, Express.js
 - **Payment Gateway:** Stripe
@@ -31,6 +34,7 @@ This is a full-stack food ordering web application built using the MERN stack (M
 - **Styling:** CSS
 
 ## Installation
+
 ### Prerequisites
 - Node.js
 - MongoDB
@@ -41,8 +45,8 @@ Make sure you have Node.js (v20+ recommended) and npm installed.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/DulanjaliSenarathna/mern-food-delivery-app.git
-cd mern-food-delivery-app
+git clone https://github.com/Archit-Dhingra/Savora.git
+cd sevora
 ```
 
 ## Backend Setup
@@ -112,6 +116,7 @@ npm run dev
 ```
 
 ## Usage
+
 Access the customer-facing app at http://localhost:5173.
 Access the admin app at http://localhost:5174.
 Register as a new user or log in with existing credentials.
@@ -130,8 +135,6 @@ Use the admin panel to manage orders, menu items.
 ![Capture2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/22fc6a58-b713-4ab7-babb-cff5844e7c55)
 # 🍱 Menu Food :
 ![Capture3](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/0f7fe1ab-8c29-4fa2-bdb2-7212994cdf80)
-# ℹ️ App Download : 
-![Capture4](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/f41881c6-e148-4215-9953-458bbe602007)
 # 🍱 Menu Food :
 ![Capture5](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/34e366fa-8ee5-4f77-a5e0-d5d4ea294672)
 # 🛒 Cart : 
@@ -142,20 +145,19 @@ Use the admin panel to manage orders, menu items.
 ![Capture8](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/c85e4c11-7ebf-4e45-8678-4000abde835d)
 
 ## 📜 API Documentation
+
 The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
 
 ## 🤝 Contributing
+
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
 
-👨‍💻 Contributors
+👨‍💻 Developer
 
-[Dulanjali Senarathna](https://github.com/DulanjaliSenarathna)
- — Project Owner
-
-[prem2621](https://github.com/prem2621)
- — Bug fixes, secure env handling, image display improvement
+[Archit Dhingra]("https://github.com/Archit-Dhingra")
 
 ## 📫 Contact
+
 For any questions or suggestions, feel free to contact me.
 
 Happy coding!
